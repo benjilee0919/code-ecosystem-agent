@@ -1,0 +1,9 @@
+{
+  "config.py": [
+    "os"
+  ],
+  "main.py": [
+    "utils"
+  ],
+  "utils.py": []
+}
