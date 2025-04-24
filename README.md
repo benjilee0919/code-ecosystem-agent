@@ -5,7 +5,6 @@ Understanding codebases through structure, filtering, and AI agents.
 ## 📁 Project Structure
 
 ```
-code-ecosystem-agent/
 ├── sample_codebase/          # Test files for parser
 │   ├── main.py
 │   ├── utils.py
